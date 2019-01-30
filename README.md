@@ -38,3 +38,4 @@ $ git config --global user.email “nama_user”
 • Sehingga terbentuk satu direktori baru dibawahnya,                                                                                                   
    selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)                                                                       
 • direktory aktif menjadi: d:\labs_pemrograman1\latihan1                                                                                                                                                                                                                                                                                           
+![latihan git](https://user-images.githubusercontent.com/46746119/51958671-9d4e9780-2483-11e9-8929-1036fc80c7b9.jpg)
