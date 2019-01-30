@@ -55,6 +55,8 @@ Menambahkan File baru pada repository
 
 Commit (Menyimpan perubahan ke database)                                                                                                                                   
 
-• Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”                                             
+• Untuk menyimpan perubahan yang ada kedalam database repository local,                                                                                
+   gunakan perintah git commit -m “komentar commit”                                             
 • Perubahan berhasil disimpan.
 
+![latihan git10](https://user-images.githubusercontent.com/46746119/51959820-c160a780-2488-11e9-85d0-cb6c7339e55f.jpg)
