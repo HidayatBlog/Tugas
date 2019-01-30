@@ -35,7 +35,9 @@ $ git config --global user.email “nama_user”
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash commad                                                     
 • Buat direktory project praktikum pertama dengan nama latihan1                                                                                    
                                                                                                                                                                                        
-• Sehingga terbentuk satu direktori baru dibawahnya,                                                                                                   
-   selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)                                                                       
-• direktory aktif menjadi: d:\labs_pemrograman1\latihan1                                                                                                                                                                                                                                                                                           
-![latihan git](https://user-images.githubusercontent.com/46746119/51958671-9d4e9780-2483-11e9-8929-1036fc80c7b9.jpg)
+• Sehingga terbentuk satu direktori baru dibawahnya,                                                                                                                                                                                                     
+   selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)                                                                                                                                     
+• direktory aktif menjadi: d:\labs_pemrograman1\latihan1                                                                                                                                                                                                                                                                                                                                                                                      
+• Jalankan perintah git init, untuk membuat repository local.                                                                                       
+• Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git                                                      
+• Pada direktori tersebut, semua perubahan pada working directory akan disimpan.                                                                         
