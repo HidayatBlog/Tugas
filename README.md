@@ -1,4 +1,5 @@
-# Ujian 1                                                                                                                                                                                                                                                                                             
+# Ujian 1 
+Apa itu git?
 1. Git adalah salah satu sistem pengontrol versi (Version Control System)                                                                                    
    pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.                                                                                                                                                                                                                                                                                        
 2. Pengontrol versi bertugas mencatat setiap perubahan pada file
@@ -11,7 +12,7 @@
     Instalasi Git
 
  • Download Git, buka website resminya Git (git-scm.com).                                                                                            
- • Kemudian unduh Git sesuai dengan arsitektur komputer kita. 
+ • Kemudian unduh Git sesuai dengan arsitektur komputer kita.                                                                                                         
  • Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.                                                                                        
  • Selamat, Git sudah terinstal di Windows. Untuk mencobanya,                                                                                                   
  • silahkan buka CMD atau PowerShell, kemudian ketik perintah                                                                                                                                                                 
