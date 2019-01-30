@@ -41,3 +41,6 @@ $ git config --global user.email “nama_user”
 • Jalankan perintah git init, untuk membuat repository local.                                                                                       
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git                                                      
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.                                                                         
+
+![latihan git4](https://user-images.githubusercontent.com/46746119/51959679-18b24800-2488-11e9-86ed-14befa29c218.jpg)
+
