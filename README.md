@@ -60,3 +60,10 @@ Commit (Menyimpan perubahan ke database)
 • Perubahan berhasil disimpan.
 
 ![latihan git10](https://user-images.githubusercontent.com/46746119/51959820-c160a780-2488-11e9-85d0-cb6c7339e55f.jpg)
+
+Membuat repository server
+
+• Server reopsitory yang akan kita gunakan adalah http://github.com                                                                                      
+• Anda harus membuat akun terlebih dahulu.                                                                                                                                              
+• Pada laman github, klik tombol start a project, atau                                                                                                         
+• Dari menu (icon +) klik New Repository                                                                                                              
