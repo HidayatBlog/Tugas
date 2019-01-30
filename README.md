@@ -88,3 +88,18 @@ Melihat hasilnya pada server repository
 • Buka laman github.com, arahkan pada repositori- nya.                                                                                                 
 • Maka perubahan akan terlihat pada laman tersebut.                                                                                                      
 ![latihan git15](https://user-images.githubusercontent.com/46746119/51960292-07b70600-248b-11e9-9770-0fe8a6c892e3.jpg)
+
+Clone Repository
+
+• Clone repository, pada dasarnya adalah meng-copy repository server                                                                                        
+dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).                                                                   
+• Untuk melakukan cloning, gunakan perintah git clone [url]                                                                                              
+
+Kegunaan file README.md
+
+• Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat,                                                             
+maka dapat menggunakan sebuah file yang bernama README.md                                                                                          
+• Pada file tersebut kita dapat membuat dokumentasi awal dari setiap                                                                                     
+project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.                                    
+• Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.                                                                 
+• untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut:                                                                            
