@@ -104,4 +104,7 @@ maka dapat menggunakan sebuah file yang bernama README.md
 • Pada file tersebut kita dapat membuat dokumentasi awal dari setiap                                                                                     
 project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.                                    
 • Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.                                                                 
-• untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut:                                                                            
+• untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut:
+
+
+#Kurang Lebihnya Mohon maaf
