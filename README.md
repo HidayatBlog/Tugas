@@ -44,3 +44,17 @@ $ git config --global user.email “nama_user”
 
 ![latihan git4](https://user-images.githubusercontent.com/46746119/51959679-18b24800-2488-11e9-86ed-14befa29c218.jpg)
 
+Menambahkan File baru pada repository                                                                                                                    
+
+• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)                                                                  
+• disini kita akan coba buat satu file bernama README.md (text file)                                                                                                                
+• File README.md berhasil dibuat. $ echo “#Latihan 1” >> README.md                                                                                                      
+
+• Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.                                                                                  
+• File README.md berhasil ditambahkan. $ git add README.md                                                                                                                 
+
+Commit (Menyimpan perubahan ke database)                                                                                                                                   
+
+• Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”                                             
+• Perubahan berhasil disimpan.
+
