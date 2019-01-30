@@ -94,6 +94,8 @@ Clone Repository
 • Clone repository, pada dasarnya adalah meng-copy repository server                                                                                        
 dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).                                                                   
 • Untuk melakukan cloning, gunakan perintah git clone [url]                                                                                              
+![latihan git16](https://user-images.githubusercontent.com/46746119/51960453-a2afe000-248b-11e9-8815-5aae1bf33f9d.jpg)
+
 
 Kegunaan file README.md
 
