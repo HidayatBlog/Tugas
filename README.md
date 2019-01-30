@@ -67,3 +67,4 @@ Membuat repository server
 • Anda harus membuat akun terlebih dahulu.                                                                                                                                              
 • Pada laman github, klik tombol start a project, atau                                                                                                         
 • Dari menu (icon +) klik New Repository                                                                                                              
+![latihan git11](https://user-images.githubusercontent.com/46746119/51959934-49df4800-2489-11e9-85d9-aafbba6580cc.jpg)
