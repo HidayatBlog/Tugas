@@ -87,3 +87,4 @@ Melihat hasilnya pada server repository
 
 • Buka laman github.com, arahkan pada repositori- nya.                                                                                                 
 • Maka perubahan akan terlihat pada laman tersebut.                                                                                                      
+![latihan git15](https://user-images.githubusercontent.com/46746119/51960292-07b70600-248b-11e9-9770-0fe8a6c892e3.jpg)
